@@ -1,0 +1,7 @@
+gpsd-py3
+requests
+pyqt5
+picamera
+
+
+#sudo apt-get install qt5-default
